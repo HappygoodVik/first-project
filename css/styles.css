@@ -1,0 +1,20 @@
+body {
+    color: blueviolet;
+}
+
+a {
+    color:rgb(130, 13, 13)
+}
+
+a:hover, a:focus {
+    color:yellowgreen
+}
+
+h1 {
+    color: blue;
+}
+
+li {
+    font-size: 20px;
+    color: brown;
+}
